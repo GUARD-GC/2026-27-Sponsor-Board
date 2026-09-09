@@ -64,9 +64,8 @@ const SEASON_SPONSORS = [
     name: "Tri Tech Refrigeration",
     tier: "silver",
     link: "https://www.tritech.com.au",
-    // Logo not yet available — the copy in the sponsor doc was a broken
-    // embedded object rather than an image file. Add the real file to
-    // assets/logos/ and set logo + cardBg: "white" here once you have it.
+    logo: "assets/logos/tri-tech.png",
+    cardBg: "white",
   },
   {
     name: "Domino's Crestwood Plaza",
