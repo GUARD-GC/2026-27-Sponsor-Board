@@ -1,0 +1,10 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GUARD placeholder emblem">
+  <polygon points="100,8 186,42 186,110 100,192 14,110 14,42"
+           fill="#161616" stroke="#d21f2e" stroke-width="4"/>
+  <polygon points="100,28 168,55 168,102 100,168 32,102 32,55"
+           fill="none" stroke="#5b6770" stroke-width="2"/>
+  <text x="100" y="112" font-family="Oswald, Arial Narrow, sans-serif" font-size="42"
+        font-weight="600" fill="#f2f2f0" text-anchor="middle">GU</text>
+  <text x="100" y="150" font-family="Oswald, Arial Narrow, sans-serif" font-size="14"
+        letter-spacing="2" fill="#d21f2e" text-anchor="middle">ARD</text>
+</svg>
