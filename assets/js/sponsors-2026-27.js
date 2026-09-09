@@ -43,6 +43,7 @@ const SEASON_SPONSORS = [
     tier: "gold",
     link: "https://www.bendigobank.com.au/branch/qld/community-bank-paradise-point/",
     logo: "assets/logos/bendigo-bank-paradise-point.png",
+    cardBg: "white",
   },
   {
     name: "Igla Auto Tech QLD",
@@ -119,6 +120,7 @@ const SEASON_SPONSORS = [
     tier: "supporter",
     link: "https://sitepsm.com.au",
     logo: "assets/logos/site-psm.png",
+    cardBg: "white",
   },
   {
     name: "Charming Jewels Polina",
@@ -154,6 +156,7 @@ const SEASON_PARTNERS = [
     name: "World Science Festival QLD",
     link: "https://worldsciencefestival.com.au",
     logo: "assets/logos/world-science-festival-qld.png",
+    cardBg: "white",
   },
 ];
 
