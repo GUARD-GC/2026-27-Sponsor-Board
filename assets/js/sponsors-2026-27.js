@@ -91,7 +91,7 @@ const SEASON_SPONSORS = [
     tier: "supporter",
     link: "https://perentiebrewing.co",
     logo: "assets/logos/perentie-brewing.png",
-    cardBg: "black",
+    cardBg: "white",
   },
   {
     name: "Super Butcher Southport",
@@ -119,7 +119,7 @@ const SEASON_SPONSORS = [
     tier: "supporter",
     link: "https://www.redbull.com/au-en",
     logo: "assets/logos/redbull.png",
-    cardBg: "black",
+    cardBg: "white",
   },
   {
     name: "Site Position Survey Map",
@@ -147,7 +147,7 @@ const SEASON_PARTNERS = [
     name: "Griffith University Student Guild",
     link: "https://gugcstudentguild.com.au",
     logo: "assets/logos/griffith-student-guild.png",
-    cardBg: "black",
+    cardBg: "white",
   },
   {
     name: "Queensland Robotics & Coding Academy",
