@@ -83,7 +83,7 @@ const SEASON_SPONSORS = [
     name: "Club Musgrave",
     tier: "supporter",
     link: "https://clubmusgrave.com",
-    logo: "assets/logos/club-musgrave.jpg",
+    logo: "assets/logos/club-musgrave.png",
     cardBg: "white",
   },
   {
