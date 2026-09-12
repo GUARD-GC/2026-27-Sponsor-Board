@@ -17,9 +17,9 @@
   --accent: #d21f2e;
   --accent-dim: #a1131f;
 
-  --tier-diamond: #e2273a;  /* red */
-  --tier-gold: #7c2230;     /* maroon */
-  --tier-silver: #b7bcc0;   /* grey */
+  --tier-diamond: #4ee2ec;  /* blue */
+  --tier-gold: #efbf04;     /* gold */
+  --tier-silver: #c4c4c4;   /* silver */
   --tier-supporter: #5b6770; /* gunmetal */
 
   --font-display: "Oswald", "Arial Narrow", sans-serif;
