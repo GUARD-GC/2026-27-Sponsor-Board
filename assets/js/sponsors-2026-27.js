@@ -72,6 +72,8 @@ const SEASON_SPONSORS = [
     name: "Domino's Crestwood Plaza",
     tier: "silver",
     link: "https://www.dominos.com.au/store/qld-crestwood-plaza-98436",
+    logo: "assets/logos/dominos.png",
+    cardBg: "white",
     // No logo file supplied — the standard Domino's chain logo would
     // work fine here too, once added.
   },
@@ -82,6 +84,7 @@ const SEASON_SPONSORS = [
     tier: "supporter",
     link: "https://clubmusgrave.com",
     logo: "assets/logos/club-musgrave.jpg",
+    cardBg: "white",
   },
   {
     name: "Perentie Brewing Co.",
@@ -95,25 +98,28 @@ const SEASON_SPONSORS = [
     tier: "supporter",
     link: "https://superbutcher.com.au/pages/southport",
     logo: "assets/logos/super-butcher-southport.jpg",
+    cardBg: "white",
   },
   {
     name: "Cold Rock Southport",
     tier: "supporter",
     link: "https://coldrock.com.au/location/southport/",
     logo: "assets/logos/cold-rock-southport.jpg",
+    cardBg: "white",
   },
   {
     name: "Zarraffa's Southport",
     tier: "supporter",
     link: "https://zarraffas.com/ferry-road-drive-thru",
     logo: "assets/logos/zarraffas-southport.png",
+    cardBg: "white",
   },
   {
     name: "Red Bull Australia",
     tier: "supporter",
     link: "https://www.redbull.com/au-en",
-    // No logo file supplied — Red Bull's brand guidelines have official
-    // assets if you want to add their bull-and-sun mark here.
+    logo: "assets/logos/redbull.png",
+    cardBg: "black",
   },
   {
     name: "Site Position Survey Map",
@@ -127,6 +133,7 @@ const SEASON_SPONSORS = [
     tier: "supporter",
     link: "https://www.instagram.com/charmingjewelspolina/",
     logo: "assets/logos/charming-jewels-polina.jpg",
+    cardBg: "white",
   },
 ];
 
@@ -146,11 +153,13 @@ const SEASON_PARTNERS = [
     name: "Queensland Robotics & Coding Academy",
     link: "https://qrca.com.au",
     logo: "assets/logos/qrca.png",
+    cardBg: "white",
   },
   {
     name: "in2robotics",
     link: "https://in2robotics.com.au",
     logo: "assets/logos/in2robotics.png",
+    cardBg: "white",
   },
   {
     name: "World Science Festival QLD",
