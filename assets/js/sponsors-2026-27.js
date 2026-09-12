@@ -108,10 +108,10 @@ const SEASON_SPONSORS = [
     cardBg: "white",
   },
   {
-    name: "Zarraffa's Southport",
+    name: "Zarraffa's Nerang and Worongary",
     tier: "supporter",
-    link: "https://zarraffas.com/ferry-road-drive-thru",
-    logo: "assets/logos/zarraffas-southport.png",
+    link: "https://zarraffas.com/nerang",
+    logo: "assets/logos/zarraffas.png",
     cardBg: "white",
   },
   {
